@@ -33,6 +33,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-# Link to MinHook to update project
+## Link to MinHook to update project
 
 * [https://github.com/TsudaKageyu/minhook]()
